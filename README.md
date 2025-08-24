@@ -4,6 +4,27 @@ A LangChain-powered AI application that leverages the **Qwen / Qwen-3 0.6B** mod
 
 ---
 
+## 📌 Table of Contents
+
+1. [Overview](#overview)  
+2. [Features](#features)  
+3. [Demo / Screenshots](#demo--screenshots)  
+4. [Getting Started](#getting-started)  
+   - [Prerequisites](#prerequisites)  
+   - [Installation](#installation)  
+   - [Configuration](#configuration)  
+   - [Running the App](#running-the-app)  
+5. [Usage](#usage)  
+   - [Basic Usage](#basic-usage)  
+   - [Advanced Usage](#advanced-usage)  
+6. [Project Structure](#project-structure)  
+7. [Contributing](#contributing)  
+8. [License](#license)  
+9. [Acknowledgements](#acknowledgements)  
+10. [Contact](#contact)
+
+---
+
 
 ## ✅ Overview
 
