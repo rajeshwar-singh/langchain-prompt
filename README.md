@@ -77,10 +77,76 @@ It is ideal for experimenting with LLM prompts, creating automation workflows, a
    QWEN_API_KEY="your_api_key_here"
 
 ### ✅ Running the App
-   ```bash
+  To start the Streamlit application, run:
+   
    streamlit run Langchain-Prompts\prompts_ui.py
+   
 ---
 
 ## 💻 Usage
+
+### ✅ Basic Usage
+- Select a prompt template from **`template.json`**
+- Run the app and provide input as requested
+- Get AI-generated responses using **Qwen / LangChain**
+
+### ✅ Advanced Usage
+- **Modify templates**: Customize `template.json` for new use cases
+- **Add models**: Extend the app to support other LangChain-compatible LLMs
+- **Batch processing**: Automate prompt execution through CLI scripts or Python scripts
+
+---
+
+## 📂 Project Structure
+
+langchain-prompt/
+├── Langchain-Prompts/            
+│   └── prompts_ui.py             
+├── template.json                 
+├── requirements.txt            
+├── README.md                    
+└── venv/  
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!
+ 1. Fork this repo
+    
+ 2. Create a feature branch:
+    ```bash
+    git checkout -b feature/YourFeature
+    
+ 3. Commit your changes:
+    ```bash
+    git commit -m "Add YourFeature"
+    
+ 4. Push to your branch:
+    ```bash
+    git push origin feature/YourFeature
+
+ 5. Open a Pull Request
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**
+
+---
+
+## 🙌 Acknowledgements
+- LangChain
+   – for simplifying LLM integrations
+
+- Qwen Model
+   – for advanced natural language processing
+---
+
+## 📬 Contact
+- Created and maintained by **Rajeshwar Singh**.
+- For feedback or questions, open an issue or connect via [GitHub Profile](https://github.com/rajeshwar-singh)
+
+
+
 
 
