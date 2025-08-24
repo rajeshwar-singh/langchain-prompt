@@ -71,4 +71,16 @@ It is ideal for experimenting with LLM prompts, creating automation workflows, a
 
 3. pip install -r requirements.txt
 
+### ✅ Configuration
+- If API keys or environment variables are needed, create a .env file:
+   ```bash
+   QWEN_API_KEY="your_api_key_here"
+
+### ✅ Running the App
+   ```bash
+   streamlit run Langchain-Prompts\prompts_ui.py
+---
+
+## 💻 Usage
+
 
