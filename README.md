@@ -44,7 +44,10 @@ It is ideal for experimenting with LLM prompts, creating automation workflows, a
 
 ## 📷 Demo / Screenshots
 
-*(Add screenshots or GIFs here if available)*
+<img width="1908" height="872" alt="image" src="https://github.com/user-attachments/assets/dbb210da-3618-45ff-a2f9-1f32ddc4af2b" />
+<img width="1887" height="853" alt="image" src="https://github.com/user-attachments/assets/98d07fee-8b03-4b0a-864e-95113f2d2a06" />
+
+
 
 ---
 
