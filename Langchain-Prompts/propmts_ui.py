@@ -21,6 +21,7 @@ llm = HuggingFacePipeline.from_model_id(
 model = ChatHuggingFace(llm=llm)
 
 st.header('Research Tool')
+st.logo(image='https://drive.google.com/file/d/1sihX3VY9puPwcaW4-zlP9GjmnFgfZQij/view?usp=drive_link')
 #query = st.text_input('Enter your prompts')
 
 #using dyanamic prompt via priomptTemplate class
@@ -71,7 +72,3 @@ if st.button('Summarize'):
         answer = answer.split("</think>")[-1]
             
     st.write(answer)
-    print("Output Fetched successfully.")
-    
-
-
