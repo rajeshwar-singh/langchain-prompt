@@ -4,26 +4,6 @@ A LangChain-powered AI application that leverages the **Qwen / Qwen-3 0.6B** mod
 
 ---
 
-## 📌 Table of Contents
-
-1. [Overview](#overview)  
-2. [Features](#features)  
-3. [Demo / Screenshots](#demo--screenshots)  
-4. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Installation](#installation)  
-   - [Configuration](#configuration)  
-   - [Running the App](#running-the-app)  
-5. [Usage](#usage)  
-   - [Basic Usage](#basic-usage)  
-   - [Advanced Usage](#advanced-usage)  
-6. [Project Structure](#project-structure)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
-9. [Acknowledgements](#acknowledgements)  
-10. [Contact](#contact)
-
----
 
 ## ✅ Overview
 
@@ -62,3 +42,12 @@ It is ideal for experimenting with LLM prompts, creating automation workflows, a
    ```bash
    git clone https://github.com/rajeshwar-singh/langchain-prompt.git
    cd langchain-prompt
+   
+2. Create and activate a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+3. pip install -r requirements.txt
+
+
