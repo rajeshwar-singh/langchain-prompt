@@ -1,4 +1,4 @@
-# langchain-prompt
+# AI Research Tool Summarizer
 
 A LangChain-powered AI application that leverages the **Qwen / Qwen-3 0.6B** model to deliver exceptional text generation capabilities.
 
